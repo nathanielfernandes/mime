@@ -20,11 +20,12 @@ Mime aims to be as easy to use as possible, for both consumers and developers. M
 
 <img src="https://cdn.nathanferns.xyz/memes/chaddoge?chad=using_mime&virgin=making_them_urself" height="250">
 
-
+###### every meme in this repo is was made with *mime*
 
 ### Highlights
 
 - Supports both **Gifs** and **Images** up to **10MB**
+- Support for Tenor gifs and images
 - Memes can have layers with complex transformations
 - Memes can be stacked up to 5 times deep
 - Any text on a meme will always be wrapped and sized for maximum readibilty
