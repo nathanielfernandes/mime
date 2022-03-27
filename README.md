@@ -18,7 +18,7 @@ I created mime because I wanted a fast and easy way to create and share memes wi
 
 Mime aims to be as easy to use as possible, for both consumers and developers. Memes are created on the fly based on query parameters in meme url making it extremely easy for developers to integrate mime into their apps. It also has [**Playground**](https://mime.nathanferns.xyz/playground) for quickly creating memes yourself.
 
-<img src="https://cdn.nathanferns.xyz/memes/chaddoge?chad=using_mime&virgin=making_them_urself" height="300">
+<img src="https://cdn.nathanferns.xyz/memes/chaddoge?chad=using_mime&virgin=making_them_urself" height="250">
 
 
 
@@ -30,7 +30,7 @@ Mime aims to be as easy to use as possible, for both consumers and developers. M
 - Any text on a meme will always be wrapped and sized for maximum readibilty
 - Any meme can be edited just by editing it's url
 
-<img src="https://cdn.nathanferns.xyz/memes/spiderman.gif?image=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Ff9d4460786929591059f3feb86c624be%2Ftenor.gif&text=thats%20pretty%20cool" height="300"> <img src="https://cdn.nathanferns.xyz/memes/metaverse?image=https%3A%2F%2Fcdn.nathanferns.xyz%2Fmemes%2Fchaddoge%3Fchad%3Dusing_mime%26virgin%3Dmaking_them_urself" height="300">
+<img src="https://cdn.nathanferns.xyz/memes/spiderman.gif?image=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Ff9d4460786929591059f3feb86c624be%2Ftenor.gif&text=thats%20pretty%20cool" height="250"> <img src="https://cdn.nathanferns.xyz/memes/metaverse?image=https%3A%2F%2Fcdn.nathanferns.xyz%2Fmemes%2Fchaddoge%3Fchad%3Dusing_mime%26virgin%3Dmaking_them_urself" height="250">
 
 ---
 
